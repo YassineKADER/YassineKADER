@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YassineKADER
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cryptography
-- 💞️ I’m looking to collaborate on CTF compititions
-- 📫 How to reach me @yassinekader (instagram)
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Deep learning algorithmes
+- 💞️ I’m looking to collaborate on ML/AI projects
+- 📫 How to reach me [Discord server](https://discord.gg/haQkcbewgU), [facebook](https://web.facebook.com/yassine.kader.me)
 
 <!---
 YassineKADER/YassineKADER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
