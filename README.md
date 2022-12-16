@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yassine KADER</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinekader&label=Profile%20views&color=0e75b6&style=flat" alt="yassinekader" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinekader" alt="yassinekader" /></a> </p>
-
 - 🌱 I’m currently learning **Django, Opencv**
 
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **yassine.upup2021@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinekader&label=Profile%20views&color=0e75b6&style=flat" alt="yassinekader" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinekader" alt="yassinekader" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekader&show_icons=true&locale=en&layout=compact" alt="yassinekader" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yassinekader&show_icons=true&locale=en" alt="yassinekader" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassinekader&show_icons=true&locale=en" alt="yassinekader" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinekader&" alt="yassinekader" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinekader&" alt="yassinekader" /></p>
 
