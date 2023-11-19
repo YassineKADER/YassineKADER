@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zbKa7NFk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yassine.kader) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yassine_kader) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-kader) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yassine_KADER) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yassine__kader) 
 
-## 😇 Hire Me:
+## 😇 Work With Me:
  <a href="https://www.upwork.com/freelancers/~01b6c49691f96f3d7e" target="blank"><img align="center" src="https://imgs.search.brave.com/WoAeEgb4m4Mga1wl6COZZGUwwJFtJJtkFCWekEHwW64/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi91/cHdvcmtfbG9nb19p/Y29uXzE3MDMxMC5w/bmc" alt="Mounir" height="80" width="80"/>  Yassine In UpWork </a><br><br>
 
 # 💻 Tech Stack:
