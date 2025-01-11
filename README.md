@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on backend development.<br>👯 Open to collaboration on exciting projects.<br>🤝 Seeking help with backend development challenges.<br>🌱 Learning new backend & AI technologies.<br>💬 Ask me about ML development.<br>⚡ Fun fact: Ada Lovelace was the first programmer.<br>📫 How to reach me: [yassine@yassinekader.com](mailto:yassine@yassinekader.com)<br>
+🔭 Currently working on backend development.<br>👯 Open to collaboration on exciting projects.<br>🤝 Seeking help with backend development challenges.<br>🌱 Learning new backend & AI technologies.<br>💬 Ask me about ML development.<br>⚡ Fun fact: Ada Lovelace was the first programmer.<br>📫 How to reach me: [yassinekader.contact@gmail.com](mailto:yassinekader.contact@gmail.com)<br>
 
 
 ## 🌐 Socials:
